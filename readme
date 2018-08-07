@@ -66,8 +66,14 @@
   Adagrad
     基于梯度的优化算法，对不同的参数跳帧学习率，对低频出现的参数进行大的更新，最高频出现的参数进行小的更新。
 
+7、文本相似度
 
-
+8、python collection 模块
+  1、namedtuple()生成可以使用名字访问元素内容的子类
+  2、deque双端队列，可以快速的从一端追加退出的对象
+  3、Counter 计数器
+  4、OrderedDict有序字典
+  5、defaudict带有默认值的字典
 
 
 
